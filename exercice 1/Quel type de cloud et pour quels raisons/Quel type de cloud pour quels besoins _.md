@@ -2,7 +2,9 @@
 
 ## Cas n°1 : ELDO
 > Développe un SaaS pour la mise en relation de professionnels du BTP
+> 
 > Développe un CRM pour les professionnels du BTP
+> 
 > Nombre d’employés : 60
 ### Solution – Type de Cloud : Public et PaaS
 - Eldo est une start-up compose de 60 employés. L’entreprise peut donc décider de louer des
@@ -18,6 +20,7 @@ Exemple similaire : TripAdvisor
 --- 
 ## Cas n°2 : MySecureProtect
 > Objets connectés en liaison avec les serveurs de l’entreprise
+> 
 > Nombre d’employés : 150
 ### Solution – Type de Cloud : Hybride et SaaS
 - L’entreprise aura son infrastructure sur le cloud et en local. Le but d’avoir son infrastructure
@@ -42,8 +45,11 @@ TLS par exemple.
 --- 
 ## Cas n°3 : Paul
 > Reprendre le contrôle de ses données
+> 
 > Nombre d’employés : N/A
+> 
 > Stocker les photos et y accéder depuis de nombreux appareils
+> 
 > 800Go de données et stockage évolue relativement peu.
 ### Solution – Type de Cloud : Privé avec CozyCloud et modèle SaaS
 - CozyCloud permet de réunir les informations personnelles comme les photos dans le
@@ -56,10 +62,13 @@ les données. Les données seront donc regroupées.
 Exemple similaire : Google drive
 --- 
 ## Cas n°4 : Entreprise de soutien aux armées.
-- Moderniser les infrastructures informatiques.
-- Confidentialité
-- Diversité de service, quantité de serveurs, stockages et réseaux évoluent
-- Nombre d’employés : 5000
+> Moderniser les infrastructures informatiques.
+> 
+> Confidentialité
+> 
+>Diversité de service, quantité de serveurs, stockages et réseaux évoluent
+>
+> Nombre d’employés : 5000
 ### Solution – Type de Cloud : Privé et Private PaaS
 - L’entreprise traite des informations confidentielles qui peuvent mettre en péril tout un pays.
 Ils ont donc besoin d’avoir un contrôle total sur leur serveurs et applications.
@@ -77,9 +86,11 @@ fonctionnement des services au sein de l’organisation.
 le cloud privé de l'organisation.
 ---
 ## Cas n°5 : TheFoodStore
-- Petite entreprise
-- Veut publier un site e-commerce rapidement afin de générer les ventes
-- Nombre d’employés : 5
+> Petite entreprise
+> 
+> Veut publier un site e-commerce rapidement afin de générer les ventes
+> 
+> Nombre d’employés : 5
 ### Solution – Type de Cloud : Public et SaaS
 - L’entreprise pourra utiliser un service d’hébergement et de création de site web sur le cloud.
 - Il n’y aura donc pas d’installation de logiciel en locale
@@ -88,10 +99,13 @@ le cloud privé de l'organisation.
 Exemple : utilisation de shopify pour gérer son site.
 ---
 ## Cas n°6 : DeliverEats
-- Plateforme permettant de commander et se faire livrer des repas.
-- Application mobile et site internet pour passer commande.
-- Application mobile pour servir de GPS au livreur.
-- Tablette pour recevoir les commandes.
+> Plateforme permettant de commander et se faire livrer des repas.
+> 
+> Application mobile et site internet pour passer commande.
+> 
+> Application mobile pour servir de GPS au livreur.
+> 
+> Tablette pour recevoir les commandes.
 ### Solution – Type de Cloud : Public et SaaS
 - L’entreprise pourra utiliser un cloud public pour héberger les machines physiques chez le
 fournisseur. Elle pourrait également louer des serveurs physiques dédiés.
@@ -103,10 +117,13 @@ Exemple similaire : Deliveroo qui utilise Twilio également.
 
 ---
 ## Cas n°7 : Onenvepa
-- Entreprise de télévendeurs.
-- Besoin de nouveau système de gestion des informations et des futurs clients.
-- Travaillent partout dans le monde.
-- Nombre de télévendeurs : beaucoup trop
+> Entreprise de télévendeurs.
+> 
+> Besoin de nouveau système de gestion des informations et des futurs clients.
+> 
+> Travaillent partout dans le monde.
+> 
+> Nombre de télévendeurs : beaucoup trop
 ### Solution – Type de Cloud : Multi Cloud et SaaS
 - Onenvepa est une grande entreprise qui travaille partout dans le monde. Il faut donc que ses
 infrastructures soient fonctionnelles en 24/7.
