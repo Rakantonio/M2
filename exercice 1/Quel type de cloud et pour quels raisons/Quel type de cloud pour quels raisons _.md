@@ -17,7 +17,9 @@ faciles grâce à l’unification des services (base de données, OS, outils de 
 au bon fonctionnement de l’application, …).
 - L’entreprise pourra faire des économies au niveau du recrutement d’experts informatiques.
 Exemple similaire : TripAdvisor
+
 --- 
+
 ## Cas n°2 : MySecureProtect
 > Objets connectés en liaison avec les serveurs de l’entreprise
 > 
@@ -32,17 +34,18 @@ continuité/reprise d’activité permettant aux objets connectés et applicatio
 fonctionner, ainsi que pour ne pas perdre les données clients si une catastrophe venait à se
 produire (incendie sur l’infrastructure local par exemple).
 - Le modèle SaaS permettra de gérer plusieurs points comme :
-o L’application mobile puisse être accessible depuis n’importe où par tous les
+  - L’application mobile puisse être accessible depuis n’importe où par tous les
 utilisateurs.
-o L’entreprise pourra faire des économies en achetant des serveurs à l’utilisation.
-o Les 2 infras seront interconnectées, permettant à l’entreprise de lier les données
+  - L’entreprise pourra faire des économies en achetant des serveurs à l’utilisation.
+  - Les 2 infras seront interconnectées, permettant à l’entreprise de lier les données
 sensibles des utilisateurs avec les applications.
-o Il faudra que l’entreprise renforce la méthode d’authentification des utilisateurs à
+  - Il faudra que l’entreprise renforce la méthode d’authentification des utilisateurs à
 leur application en utilisant des services proposés par le fournisseur de cloud comme
 SAML par exemple. Il faudra également chiffrer les données qui transitent avec un
 TLS par exemple.
 
 --- 
+
 ## Cas n°3 : Paul
 > Reprendre le contrôle de ses données
 > 
@@ -60,7 +63,9 @@ les données. Les données seront donc regroupées.
 - Ses photos seront accessibles depuis téléphone et ordinateurs
 - CozyCloud offre une solution d’auto-hébergement (Cloud personnel)
 Exemple similaire : Google drive
+
 --- 
+
 ## Cas n°4 : Entreprise de soutien aux armées.
 > Moderniser les infrastructures informatiques.
 > 
@@ -84,7 +89,9 @@ besoins en termes de quantité de serveurs, de stockages et de réseaux.
 fonctionnement des services au sein de l’organisation.
 - Le PaaS privé doit être mis en place en déployant des applications et des services adaptés sur
 le cloud privé de l'organisation.
+
 ---
+
 ## Cas n°5 : TheFoodStore
 > Petite entreprise
 > 
@@ -97,7 +104,9 @@ le cloud privé de l'organisation.
 - L’entreprise paiera un abonnement pour héberger son site, gérer ses ventes et ses clients.
 - Le site sera accessible de partout depuis tous les appareils.
 Exemple : utilisation de shopify pour gérer son site.
+
 ---
+
 ## Cas n°6 : DeliverEats
 > Plateforme permettant de commander et se faire livrer des repas.
 > 
@@ -116,6 +125,7 @@ qui fournit des services de communications unifiées via des API.
 Exemple similaire : Deliveroo qui utilise Twilio également.
 
 ---
+
 ## Cas n°7 : Onenvepa
 > Entreprise de télévendeurs.
 > 
